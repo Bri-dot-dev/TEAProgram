@@ -89,7 +89,7 @@ Key: 0xa56babcdffabffffffffffffabcdef01
 Cyphertext: 0x97f78dcf1dba72ba 
 
 ----------------------------------------------------------------------------------------------------
-***This program is in an experimental stage and will be updated in the future. Please send any bugs 
+***This program is in an experimental stage and will be updated in the future. Please report any bugs 
 or errors to https://github.com/Bri-dot-dev
 ----------------------------------------------------------------------------------------------------
 
