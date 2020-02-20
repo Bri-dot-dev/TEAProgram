@@ -34,7 +34,8 @@ For example, given the plaintext of: 0x12345678abcdef00 (Entries must be in hex)
 Split into left and right .... Left or "lText" ---> 0x01ca4567 | 0x0cabcdef <--- Right or "rText"
 						                                          	^            ^
                                                         |            |
-                                                    (32-bits) + (32-bits) = 64-bits toal
+                                                    (32-bits) + (32-bits) 
+						                = 64-bits toal
 
 Where, "lText" contains the left block of the 64 bit plain text, 32-bits total
 
